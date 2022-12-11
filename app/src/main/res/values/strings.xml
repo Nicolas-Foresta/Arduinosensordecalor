@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lostcanvas</string>
+    <string name="all">TODO</string>
+    <string name="title_temperature">DHT11 Temperatura</string>
+    <string name="subtitle_temperature">Firebase Kotlin</string>
+    <string name="title_humidity">DHT11 Humedad</string>
+    <string name="subtitle_humidity">Firebase Kotlin</string>
+    <string name="value_temperature">Temperatura: 25.34 C°</string>
+    <string name="value_humidity">Humedad: 40%</string>
+    <string name="led_on">LED ON</string>
+    <string name="led_off">LED OFF</string>
+    <string name="temperatura">temperatura</string>
+    <string name="sensor_de_temperatura">Sensor de temperatura</string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "12815151396",
+    "firebase_url": "https://arduino-firebase-androidstud-default-rtdb.firebaseio.com",
+    "project_id": "arduino-firebase-androidstud",
+    "storage_bucket": "arduino-firebase-androidstud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12815151396:android:50275cb06ed020346183b1",
+        "android_client_info": {
+          "package_name": "com.example.ardu_firebase_andro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12815151396-ratv6gf6nrise99shi0s4scfhj7333f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnsHxF9dUQmOe5-oZaBSr_X5MAWncq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12815151396-ratv6gf6nrise99shi0s4scfhj7333f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12815151396:android:1b918e12c8fe58706183b1",
+        "android_client_info": {
+          "package_name": "com.example.arduinosensordecalor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12815151396-ratv6gf6nrise99shi0s4scfhj7333f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnsHxF9dUQmOe5-oZaBSr_X5MAWncq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12815151396-ratv6gf6nrise99shi0s4scfhj7333f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
